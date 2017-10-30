@@ -1,0 +1,57 @@
+
+body{
+	font-family: 'Nosifer', cursive;
+  background: #e9e9e9;
+	width:80%;
+	height:100%;
+	font-size:-webkit-xxx-large;
+	
+}
+input{
+	margin-left:25%;
+
+}
+select{
+	margin-left:25%;
+	border-radius:10px;
+	height:5vw;
+	width:18vw;
+	font-family: 'Lobster', cursive;
+	font-size:xx-large
+}
+
+[type="text"]{
+	width:50vw;
+	height:5vw;
+	border-radius:10px;
+	font-size:-webkit-xxx-large;
+	font-family: 'Lobster', cursive;
+}
+
+[type="email"]{
+	width:50vw;
+	height:5vw;
+	border-radius:10px;
+	font-size:-webkit-xxx-large;
+	font-family: 'Lobster', cursive;
+}
+
+[type="button"]{
+	width:30vw;
+	height:8vw;
+	border-radius:10px;
+	margin-left:38%;
+	margin-top:5%;
+	font-size:xx-large;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+[type="radio"]{
+	width:3vw;
+	height:2vw;
+	margin-left:10vw;
+}
+.container{
+	margin-left:25%;
+}
+
